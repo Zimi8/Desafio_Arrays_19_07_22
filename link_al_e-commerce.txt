@@ -1,0 +1,10 @@
+Dejo adjuntado el link del e-comerce al que quiero linkear 
+para este proyecto final. 
+Es una página de Decoración de interiores de Diseño.
+https://annahdecoarg.netlify.app/secciones/productos.html
+
+
+En el archivo >>> Desafío ArraysJs.js <<<<< dejo las funciones que probé, me ayudaron y e intenté. 
+Perdón por el lío que hice al comentar todo. 
+El HTML es >>>>>> desafioArraysJimenez.html <<<<<<
+
